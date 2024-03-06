@@ -2,7 +2,7 @@ part of 'home_imports.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
-
+  static route() => MaterialPageRoute(builder: (context) => HomeScreen());
   @override
   Widget build(BuildContext context) {
     return Scaffold(
