@@ -1,4 +1,4 @@
-import 'package:fitness_tracker_app/features/auth/view/LoginView.dart';
+import 'package:fitness_tracker_app/features/auth/view/Auth.dart';
 import 'package:fitness_tracker_app/features/home/view/home_imports.dart';
 import 'package:fitness_tracker_app/utils/themes/themes.dart';
 import 'package:flutter/material.dart';
