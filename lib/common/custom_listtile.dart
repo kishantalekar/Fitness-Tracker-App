@@ -1,7 +1,4 @@
-import 'package:fitness_tracker_app/utils/constants/assets.dart';
-import 'package:fitness_tracker_app/utils/constants/colors.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
+part of 'common_imports.dart';
 
 class Custom_listtile extends StatelessWidget {
   const Custom_listtile({
